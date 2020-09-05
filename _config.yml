@@ -18,7 +18,7 @@ navbar-links:
   Research: ""
   About Me:
     - CV: ""
-    - Bio: "/bio.md"
+    - Bio: "bio"
   
 
 # --- Logo --- #
