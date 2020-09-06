@@ -17,7 +17,7 @@ navbar-links:
   Home: "https://matthew-gross.github.io"
   Research: ""
   About Me:
-    - CV: ""
+    - CV: "mgross_cv"
     - Bio: "bio"
   
 
