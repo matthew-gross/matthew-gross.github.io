@@ -15,7 +15,7 @@ author: Matthew Gross
 
 navbar-links:
   Home: "https://matthew-gross.github.io"
-  Research: "/research.md"
+  Research: "/research"
   About Me:
     - CV: "/mgross_CV.pdf"
     - Bio: "bio"
