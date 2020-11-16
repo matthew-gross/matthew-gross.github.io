@@ -20,7 +20,7 @@ work. </span>
 
 ### Peer-Reviewed Research
 
-[**The Demography of Rising Wealth Inequality**](http://theinequalitylab.com/wp-content/uploads/PfefferGrossSchoeni_DP-2019-1.pdf) with Fabian Pfeffer and Bob Schoeni. Revise and Resubmit at **Demography**.
+[**The Demography of Rising Wealth Inequality**](http://theinequalitylab.com/wp-content/uploads/PfefferGrossSchoeni_DP-2019-1.pdf) with Fabian Pfeffer and Bob Schoeni. Revise and Resubmit at *Demography*.
 
 <span style="font-size: 12px"> Abstract: The growth of inequality  in household wealth  over  recent  decades  is  well documented. We determine the independent contribution of several demographic trends  to rising U.S. wealth  inequality  over  the  last  three  decades.  Using  data from  the  Survey  of  Consumer  Finances  from  1989  through  2016  and  novel decomposition techniques,  we  show  that rapid  growth  in  wealth  inequality  and increasing wealth concentration at the top coincided with important changes in the  demographic  composition  of the  country but  that  the  two  are  not  directly related.  However,  the shifts  in  the  wealth  distribution  among demographic groups, in particular the move of households with less education and non-elderly households  away  from  the  middle  of  the  distribution, explain much  of  the observed overall growth  in  inequality. Part,  but  not  all,  of  these  demographic contributions  to  rising  wealthinequality  operate through  their  contributions to rising income inequality. </span>
 
