@@ -18,7 +18,7 @@ navbar-links:
   Research: "/research"
   Sample Code: "https://github.com/matthew-gross/code"
   About Me:
-    - CV: "/mgross_CV.pdf"
+    - CV: "/gross_matthew_CV.pdf"
     - Bio: "bio"
   
 
