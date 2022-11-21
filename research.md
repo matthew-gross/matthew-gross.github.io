@@ -15,12 +15,12 @@ title: Research
 [**The Impact of Financial Sanctions: Regression Discontinuity Evidence from Driver Responsibility Fee Programs in Michigan and Texas**](gross_financial_sanctions.pdf) with Keith Finlay, Elizabeth Luh and Michael Mueller-Smith.
 
 <span style="font-size: 12px"> Abstract: We estimate the causal impact of financial sanctions in the U.S. criminal justice system. We utilize a regression discontinuity design and exploit two distinct natural experiments: the abrupt introduction of driver responsibility fees (DRF) in Michigan and Texas. These discontinuously imposed additional surcharges ($300–$6,000) for criminal traffic offenses. Although the policies generated almost $3 billion of debt, we find consistent evidence that the DRFs had no impact on recidivism, earnings, or romantic partners’ outcomes over the next decade. Without evidence of a general or specific deterrence effect and modest success with debt collection, we find little justification for these policies.
-  
-### Peer-Reviewed Research
 
 [**The Demography of Rising Wealth Inequality**](http://theinequalitylab.com/wp-content/uploads/PfefferGrossSchoeni_DP-2019-1.pdf) with Fabian Pfeffer and Bob Schoeni. Revise and Resubmit at *Demography*.
 
 <span style="font-size: 12px"> Abstract: The growth of inequality  in household wealth  over  recent  decades  is  well documented. We determine the independent contribution of several demographic trends  to rising U.S. wealth  inequality  over  the  last  three  decades.  Using  data from  the  Survey  of  Consumer  Finances  from  1989  through  2016  and  novel decomposition techniques,  we  show  that rapid  growth  in  wealth  inequality  and increasing wealth concentration at the top coincided with important changes in the  demographic  composition  of the  country but  that  the  two  are  not  directly related.  However,  the shifts  in  the  wealth  distribution  among demographic groups, in particular the move of households with less education and non-elderly households  away  from  the  middle  of  the  distribution, explain much  of  the observed overall growth  in  inequality. Part,  but  not  all,  of  these  demographic contributions  to  rising  wealthinequality  operate through  their  contributions to rising income inequality. </span>
+  
+### Peer-Reviewed Research
 
 [**The Determinants of Subprime Mortgage Performance Following a Loan Modification**](https://www.urban.org/sites/default/files/2015/08/10/schmeiser_and_gross_jrefe_2016.pdf) with Max Schmeiser (2016).   *The Journal of Real Estate Finance and Economics. 52(1), 1-27*.
 
